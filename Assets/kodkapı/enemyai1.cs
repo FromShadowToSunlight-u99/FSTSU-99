@@ -11,7 +11,7 @@ public class enemyai1 : MonoBehaviour
 
     private GameObject player;
     private bool isAttacking = false;
-    private float attackTimer = 0f;
+    private float attackTimer = 1f;
 
     private void Start()
     {
